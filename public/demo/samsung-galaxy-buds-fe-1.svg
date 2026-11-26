@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <linearGradient id="g30" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c2d12"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+    <radialGradient id="g30r" cx="0.5" cy="0.4" r="0.6"><stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#g30)"/>
+  <rect width="800" height="800" fill="url(#g30r)"/>
+  <circle cx="110" cy="690" r="200" fill="#ffffff" fill-opacity="0.06"/>
+  <circle cx="400" cy="350" r="210" fill="#ffffff" fill-opacity="0.08"/>
+  <g transform="translate(220 170) scale(15)" fill="none" stroke="#fde68a" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 3a4 4 90 00-4 4v12a2 2 90 004 0v-8a5 5 90 003.75-1.693 1 1 90 00.25-.661V5.354a1 1 90 00-.25-.661A5 5 90 0018 3" />
+  <path d="M6 3a4 4 0 014 4v12a2 2 0 01-4 0v-8a5 5 0 01-3.75-1.693A1 1 0 012 8.646V5.354a1 1 0 01.25-.661A5 5 0 016 3" />
+  </g>
+  <text x="400" y="640" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">Samsung Galaxy Buds FE</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="6" fill="#ffffff" fill-opacity="0.75">SAMSUNG</text>
+</svg>

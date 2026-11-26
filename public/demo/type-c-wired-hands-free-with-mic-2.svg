@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <linearGradient id="g281" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#334155"/></linearGradient>
+    <radialGradient id="g281r" cx="0.5" cy="0.4" r="0.6"><stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#g281)"/>
+  <rect width="800" height="800" fill="url(#g281r)"/>
+  <circle cx="690" cy="120" r="160" fill="#ffffff" fill-opacity="0.06"/>
+  <circle cx="400" cy="350" r="210" fill="#ffffff" fill-opacity="0.08"/>
+  <g transform="translate(220 170) scale(15)" fill="none" stroke="#f97316" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 11h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-5Zm0 0a9 9 0 1 1 18 0m0 0v5a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3Z" />
+  <path d="M21 16v2a4 4 0 0 1-4 4h-5" />
+  </g>
+  <text x="400" y="640" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">Type-C Wired</text>
+  <text x="400" y="696" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">Hands-free with Mic</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="6" fill="#ffffff" fill-opacity="0.75">SAMSUNG</text>
+</svg>
